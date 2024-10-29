@@ -1,0 +1,11 @@
+01/02/08 - Version 1.1.1
+  * Hardcoded GMT timezone into strtotime. (ajax-comments-spy.php)
+  * Using correct hook called wp_set_comment_status() for updating comment approval time.
+
+31/01/08 - Version 1.1.0
+  * AJAX sends timestamp which is 1 minute behind the request time. This ensures that all the approved comments are sent to the responseText.
+  * Unapproved comments when approved are sent to the responseText for output.
+  * Update interval setting is based per minute.
+  * Increased effiency of queries.
+  * You can specify the amount of comments to output.
+  * Valid and cross-browser javascript

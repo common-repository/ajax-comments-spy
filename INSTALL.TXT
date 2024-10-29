@@ -1,0 +1,78 @@
+CONTENTS OF THIS FILE
+---------------------
+
+ * Requirements
+ * Installation
+ * Configuration
+ * More Information
+
+REQUIREMENTS
+------------
+
+AJAX Comments Spy has only been tested on Wordpress 2.3.2.
+
+AJAX Comments SPY requires a web server, PHP4 (4.3.3 or greater) or PHP5
+(http://www.php.net/) and MySQL (http://www.mysql.com/). The Apache web
+server and MySQL database are recommended; other web server and database
+combinations such as IIS has not been tested. When using MySQL,
+version 4.1 or greater is recommended.
+
+For more detailed information about WordPress requirements, see "Server
+requirements" (http://codex.wordpress.org/Hosting_WordPress#Server_requirements)
+in the WordPress Codex.
+
+INSTALLATION
+------------
+
+0. BACKUP
+
+   Just in case anything wrong goes by.
+
+1. DOWNLOAD AJAX COMMENTS
+
+   You can obtain the latest WordPress release from Muhammad Haris's Blog
+   (http://www.mharis.net/2008/01/14/wordpress-ajax-comments-spy/). Files
+   are in .zip format and can be extracted using most compression tools.
+
+2. EXTRACT/UPLOAD TO WORDPRESS PLUGINS DIRECTORY
+
+   Upload the plugin to the wp-content/plugins folder in your WordPress
+   directory.
+
+3. ACTIVATE THE PLUGIN
+
+   Log-in to your WordPress blog.
+
+   From the Administration Panel, click on the "Plugin" tab.
+
+   Click "Activate" from the "Plugins Management" page.
+
+4. ADD THE WIDGET TO YOUR THEME
+
+   Click on "Presentation" tab.
+
+   Now, Click on "Widgets".
+
+   Drag and drop "AJAX Comments Spy" widget to your desired sidebar.
+
+   Press "Save changes".
+
+
+That's it! For detailed instructions, see "Installing plugins"
+(http://codex.wordpress.org/Managing_Plugins#Installing_Plugins) in the
+WordPress Codex.
+
+CONFIGURATION
+-------------
+
+Refer to the "Description" section of readme.txt
+
+MORE INFORMATION
+----------------
+
+For platform specific configuration issues and other installation and
+administration assistance, please consult the WordPress Codex at
+http://codex.wordpress.org/Main_Page.
+
+I provide paid support and feature requests for the plugin, please contact me
+at isharis@gmail.com for further information.
